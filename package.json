@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@alicloud/alidns20150109": "^3.4.0",
+    "@alicloud/cas20200407": "^1.2.0",
+    "@alicloud/dcdn20180115": "^2.4.0",
+    "@alicloud/openapi-client": "^0.4.10",
+    "@alicloud/tea-util": "^1.4.8",
+    "acme-client": "^5.3.1"
+  }
+}
